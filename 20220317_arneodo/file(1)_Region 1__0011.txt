@@ -29,7 +29,7 @@ Initial energy (eV): 315.000000
 Final energy (eV): 1200.000000
 Delta energy (eV): 5.000000
 Deviation angle choice: Higher order rejection
-Deviation angle (°): NaN
+Deviation angle (ï¿½): NaN
 Full Beam
 G1200 channel
 range keithley B 20 nA
@@ -45,7 +45,7 @@ Initial energy (eV): 1190.000000
 Final energy (eV): 1500.000000
 Delta energy (eV): 5.000000
 Deviation angle choice: Higher order rejection
-Deviation angle (°): NaN
+Deviation angle (ï¿½): NaN
 filter Ag 0.6 um
 G1200 channel
 range keithley B 200 pA
@@ -103,7 +103,7 @@ YM (mm): 15.964025
 ZM (mm): (Warning: for kinetic energy scans, 
 this parameter is given in the scan settings) 
 -6.001413
-TiltM (°): 0.000138
+TiltM (ï¿½): 0.000138
 
 COIL VALUES
 Ix (amps):2.820
